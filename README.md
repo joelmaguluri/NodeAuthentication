@@ -1,1 +1,1 @@
-# webpage
+../img/hero_background.jpg
